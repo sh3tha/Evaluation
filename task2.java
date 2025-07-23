@@ -18,7 +18,6 @@ public class task2{
 
         System.out.println("Original sentence: " + sentence);
 
-
         int wordCount = countWords(sentence);
         System.out.println("Word count: " + wordCount);
 
